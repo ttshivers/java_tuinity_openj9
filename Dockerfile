@@ -1,4 +1,4 @@
-FROM        adoptopenjdk/openjdk14-hotspot:alpine-slim
+FROM        adoptopenjdk/openjdk14-hotspot:alpine
 
 LABEL       author="Travis Shivers" maintainer="ttshivers@gmail.com"
 
